@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://github.com/Fidelcastro24"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Web%20and%20Mobile%20Master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 <table><tr><td valign="top" width="100%">
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
