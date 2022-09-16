@@ -1,5 +1,3 @@
-## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
-
 <table><tr><td valign="top" width="100%">
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -68,4 +66,3 @@
 </div>
 </td></tr></table>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
