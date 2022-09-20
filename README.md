@@ -14,7 +14,7 @@
   <a href="https://t.me/jupitersoftdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   
 </p>
-<h2 align="center">I am a Web & Mobile.</h2>
+<h2 align="center">I am a Web & Mobile Developer.</h2>
 
 <p align="center">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
