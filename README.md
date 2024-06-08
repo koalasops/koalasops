@@ -1,20 +1,13 @@
 <p align="center">
-  <a href="https://github.com/jupiter-softdev" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="" ><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, Nice to meet you.
+  Nice to meet you.
   お会いできて嬉しいです。
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p align="center">
-  <a href="mailto:jupiter.softdev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/yXScLqhU5LQM" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/jupitersoftdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  
-</p>
+
 <h2 align="center">Senior Full-Stack Web & Mobile Developer.</h2>
 
 <p align="center">
