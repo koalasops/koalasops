@@ -14,7 +14,7 @@
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
 </p>
 
-<h4 align="">Senior Full Stack Web Developer and Web Designer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, Django, Flask, PHP,  Vue, Nuxt, React JS, Next, Node, TypeScript, etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
+<h4 align="">Senior Full Stack Web Developer and Web Designer. I own a strong hold on different skills such as HTML, CSS, JavaScript, PHP, Laravel, Vue, Wordpress, React, React-Native etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
 
 
 ####  ![](https://img.shields.io/badge/Bootstrap-yellow) ![](https://img.shields.io/badge/Tailwind-teal) ![](https://img.shields.io/badge/CSS-orange) ![](https://img.shields.io/badge/Wordpress-blue) ![](https://img.shields.io/badge/Laravel-red) ![](https://img.shields.io/badge/Vue-green) ![](https://img.shields.io/badge/Nuxt-teal) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/ReactNative-blue) ![](https://img.shields.io/badge/Next-gray) ![](https://img.shields.io/badge/Node-green) ![](https://img.shields.io/badge/AWS-orange) ![](https://img.shields.io/badge/MySQL-green) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/MonoDB-teal) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Git-blue)
