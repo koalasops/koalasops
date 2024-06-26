@@ -4,7 +4,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Nice to meet you.
-  お会いできて嬉しいです。
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -15,7 +15,7 @@
 </p>
 
 <h4 align="center">Senior Full Stack Web Developer and Web Designer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, Django, Flask, PHP,  Vue, Nuxt, React JS, Next, Node, TypeScript, etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
-<h4>私はフルスタックの Web 開発者兼 Web デザイナーです。 私は、HTML、CSS、JavaScript、Python、Django、Flask、PHP、Vue、Nuxt、React JS、Next、Node、TypeScript などのさまざまなスキルをしっかりと保持しています。私は、Web サイトと Web アプリで複数のプロジェクトを行ってきました。 発達。 また、さまざまなフリーランスのプラットフォームにも携わっており、クライアントに素晴らしいサービスを提供することで、クライアントとの信頼関係を築いてきました。</h4>
+
 
 ####  ![](https://img.shields.io/badge/Bootstrap-yellow) ![](https://img.shields.io/badge/Tailwind-teal) ![](https://img.shields.io/badge/CSS-orange) ![](https://img.shields.io/badge/Wordpress-blue) ![](https://img.shields.io/badge/Laravel-red) ![](https://img.shields.io/badge/Vue-green) ![](https://img.shields.io/badge/Nuxt-teal) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/ReactNative-blue) ![](https://img.shields.io/badge/Next-gray) ![](https://img.shields.io/badge/Node-green) ![](https://img.shields.io/badge/AWS-orange) ![](https://img.shields.io/badge/MySQL-green) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/MonoDB-teal) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Git-blue)
 
