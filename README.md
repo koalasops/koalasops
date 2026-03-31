@@ -1,21 +1,11 @@
 <p align="center">
   <a href="" ><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;8%2B%20years%20of%20IT%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Nice to meet you.
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
 
 <h2 align="center">ウェブデザイン、ウェブサイト、ウェブアプリケーション制作</h2>
 
-<p align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
-</p>
-
 <h4 align="">
-  シニアフルスタックWebエンジニアとして、HTML、CSS、JavaScript、PHP、Laravel、Vue、WordPress、React、React Nativeなど幅広い技術に精通しています。
+シニアフルスタックWebエンジニアとして、HTML、CSS、JavaScript、PHP、Laravel、Vue、WordPress、React、React Nativeなど幅広い技術に精通しています。
 WebサイトおよびWebアプリケーションの開発において、これまでに多数のプロジェクト実績があります。
 
 また、複数のフリーランスプラットフォームにて活動しており、高品質なサービスの提供を通じてクライアントとの信頼関係を築いてきました。
