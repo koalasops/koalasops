@@ -8,13 +8,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h2 align="center">Senior Full-Stack Web & Mobile Developer.</h2>
+<h2 align="center">ウェブデザイン、ウェブサイト、ウェブアプリケーション制作</h2>
 
 <p align="center">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
 </p>
 
-<h4 align="">Senior Full Stack Web Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, PHP, Laravel, Vue, Wordpress, React, React-Native etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
+<h4 align="">
+  シニアフルスタックWebエンジニアとして、HTML、CSS、JavaScript、PHP、Laravel、Vue、WordPress、React、React Nativeなど幅広い技術に精通しています。
+WebサイトおよびWebアプリケーションの開発において、これまでに多数のプロジェクト実績があります。
+
+また、複数のフリーランスプラットフォームにて活動しており、高品質なサービスの提供を通じてクライアントとの信頼関係を築いてきました。
+
+要件定義から設計、開発、運用・保守まで一貫して対応可能であり、パフォーマンス・保守性・拡張性を意識した開発を得意としています。
+さらに、ユーザー体験（UX）やSEO、アクセシビリティにも配慮した実装を心がけています。
+</h4>
 
 
 ####  ![](https://img.shields.io/badge/Bootstrap-yellow) ![](https://img.shields.io/badge/Tailwind-teal) ![](https://img.shields.io/badge/CSS-orange) ![](https://img.shields.io/badge/Wordpress-blue) ![](https://img.shields.io/badge/Laravel-red) ![](https://img.shields.io/badge/Vue-green) ![](https://img.shields.io/badge/Nuxt-teal) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/ReactNative-blue) ![](https://img.shields.io/badge/Next-gray) ![](https://img.shields.io/badge/Node-green) ![](https://img.shields.io/badge/AWS-orange) ![](https://img.shields.io/badge/MySQL-green) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/MonoDB-teal) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Git-blue)
